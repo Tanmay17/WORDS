@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Personal\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\hp\\.android\\build-cache\\0c970b478dcaf012f9fc97f34929ceb8f31bbc00\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Personal\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\hp\\.android\\build-cache\\0c970b478dcaf012f9fc97f34929ceb8f31bbc00\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Personal\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\hp\\.android\\build-cache\\0c970b478dcaf012f9fc97f34929ceb8f31bbc00\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    }
+]

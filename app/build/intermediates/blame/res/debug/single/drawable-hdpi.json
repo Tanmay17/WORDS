@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Personal\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "E:\\Personal\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\Personal\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "E:\\Personal\\ocr-reader-complete\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\Personal\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "E:\\Personal\\ocr-reader\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    }
+]
