@@ -19,6 +19,10 @@ uses-feature#android.hardware.camera
 ADDED from E:\Personal\ocr-reader\app\src\main\AndroidManifest.xml:6:5-60
 	android:name
 		ADDED from E:\Personal\ocr-reader\app\src\main\AndroidManifest.xml:6:19-57
+uses-permission#android.permission.INTERNET
+ADDED from E:\Personal\ocr-reader\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from E:\Personal\ocr-reader\app\src\main\AndroidManifest.xml:7:22-64
 uses-permission#android.permission.CAMERA
 ADDED from E:\Personal\ocr-reader\app\src\main\AndroidManifest.xml:8:5-65
 	android:name
@@ -50,7 +54,7 @@ MERGED from [com.android.support:support-compat:24.2.0] C:\Users\hp\.android\bui
 	android:allowBackup
 		ADDED from E:\Personal\ocr-reader\app\src\main\AndroidManifest.xml:11:9-35
 	android:icon
-		ADDED from E:\Personal\ocr-reader\app\src\main\AndroidManifest.xml:14:9-38
+		ADDED from E:\Personal\ocr-reader\app\src\main\AndroidManifest.xml:14:9-39
 	android:theme
 		ADDED from E:\Personal\ocr-reader\app\src\main\AndroidManifest.xml:17:9-47
 meta-data#com.google.android.gms.version

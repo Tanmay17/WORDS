@@ -26,15 +26,11 @@ import com.google.android.gms.vision.text.TextBlock;
 
 import java.util.List;
 
-/**
- * Graphic instance for rendering TextBlock position, size, and ID within an associated graphic
- * overlay view.
- */
 public class OcrGraphic extends GraphicOverlay.Graphic {
 
     private int mId;
 
-    private static final int TEXT_COLOR = Color.WHITE;
+    private static final int TEXT_COLOR = Color.BLUE;
 
     private static Paint sRectPaint;
     private static Paint sTextPaint;

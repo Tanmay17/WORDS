@@ -693,8 +693,9 @@ int drawable design_fab_background 0x7f02007a
 int drawable design_ic_visibility 0x7f02007b
 int drawable design_snackbar_background 0x7f02007c
 int drawable icon 0x7f02007d
-int drawable navigation_empty_icon 0x7f02007e
-int drawable notification_template_icon_bg 0x7f02007f
+int drawable logo2 0x7f02007e
+int drawable navigation_empty_icon 0x7f02007f
+int drawable notification_template_icon_bg 0x7f020080
 int id action0 0x7f0b007e
 int id action_bar 0x7f0b0065
 int id action_bar_activity_content 0x7f0b0000
